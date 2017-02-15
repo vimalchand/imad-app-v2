@@ -13,12 +13,12 @@ app.get('/article-one',functin(req,res){
     res.send('Article one requested and will be served here');  
 });
 
-app.get('/article-one',functin(req,res){
-    res.send('Article one requested and will be served here');  
+app.get('/article-two',functin(req,res){
+    res.send('Article two requested and will be served here');  
 });
 
-app.get('/article-one',functin(req,res){
-    res.send('Article one requested and will be served here');  
+app.get('/article-three',functin(req,res){
+    res.send('Article three requested and will be served here');  
 });
 
 
